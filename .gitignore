@@ -1,0 +1,5 @@
+node_modules/
+.yo-repository/
+.env
+keys/
+.vscode/

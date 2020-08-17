@@ -1,0 +1,2 @@
+insert into QuizAttached(userId, progress, score, quizId, dateStarted) VALUES (2,7,3,904,CURDATE());
+insert into QuizAttached(userId, progress, score, quizId, dateStarted, dateFinished) VALUES (3,15,15,116,CURDATE(), CURDATE()+1);
