@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Quizzing is a mobile application created for creating quizzes. It's main purpose is to help student study for exams.
+Quizzing is a mobile application created for creating quizzes. It's main purpose is to help students study for exams.
 
 ## Getting Started
 
